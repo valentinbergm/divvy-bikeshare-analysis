@@ -1,0 +1,9 @@
+trip_category,member_casual,total_rides
+Quick (0-10 min),casual,655798
+Quick (0-10 min),member,1630301
+Short (10-30 min),casual,644159
+Short (10-30 min),member,909622
+Mid (30-60 min),casual,198182
+Mid (30-60 min),member,136543
+Long (>60 min),casual,105384
+Long (>60 min),member,15687

@@ -1,0 +1,7 @@
+member_casual,rideable_type,total_rides,percentage_of_total
+casual,classic_bike,935786,58.35813
+casual,electric_bike,642912,40.09372
+casual,electric_scooter,24825,1.54815
+member,classic_bike,1602371,59.52006
+member,electric_bike,1068732,39.69804
+member,electric_scooter,21050,0.7819
