@@ -1,8 +1,7 @@
 # Divvy Bikes: A Data-Driven Analysis of Rider Behavior
 
 **Live Interactive Dashboard: [Link to your Tableau Public Dashboard]** 
-*(Сюда вставь свою ссылку из Tableau Public)*
-
+https://public.tableau.com/app/profile/valenyn.malyuk/viz/divvy-bikeshare-analysis/DivyBikes#2 
 ---
 
 ### Project Overview
