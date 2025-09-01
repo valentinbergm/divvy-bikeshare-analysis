@@ -33,13 +33,15 @@ The primary business objective is to provide data-driven recommendations for a m
 
 > **Recommendation:** Implement a dynamic bike rebalancing strategy. Increase bike availability at tourist hotspots on weekends and in business districts on weekday mornings to improve customer experience for both segments.
 
----
+---<img width="1003" height="802" alt="Divvy Bikes  Converting Casual Riders into Members" src="https://github.com/user-attachments/assets/dbe4c691-f070-4b24-b60e-a12c973a2d4f" />
+
 
 ### The Dashboard
 
 *(Сделай хороший, чистый скриншот своего дашборда и вставь его сюда. Это очень важно!)*
 
 ![Divvy Dashboard Screenshot](link_to_your_screenshot.png) 
+![Uploading Divvy Bikes. Converting Casual Riders into Members.png…]()
 
 ---
 
