@@ -36,7 +36,8 @@ The primary business objective is to provide data-driven recommendations for a m
 ### The Dashboard
 
 
-<img width="1003" height="802" alt="Divvy Bikes  Converting Casual Riders into Members" src="https://github.com/user-attachments/assets/dbe4c691-f070-4b24-b60e-a12c973a2d4f" />
+![divy-bikes-screenshot](https://github.com/user-attachments/assets/e4195a01-d6d0-49bd-84b9-db1cf81638b8)
+
 
 
 ---
