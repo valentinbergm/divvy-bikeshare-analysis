@@ -70,5 +70,5 @@ The primary business objective is to provide data-driven recommendations for a m
 
 ### Contact
 
-*   **Author:** [Valentyn Malyuk]
-*   **LinkedIn:** [https://www.linkedin.com/in/valentyn-malyuk-003564120/]
+*   **Author:** Valentyn Malyuk
+*   **LinkedIn:** https://www.linkedin.com/in/valentyn-malyuk-003564120/
