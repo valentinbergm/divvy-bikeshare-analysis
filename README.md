@@ -51,7 +51,8 @@ The analysis resulted in three actionable business recommendations, each support
 
 This narrative is summarized in a four-panel interactive dashboard designed for stakeholders.
 
-![Divvy Dashboard Screenshot](https://github.com/valentinbergm/divvy-bikeshare-analysis/assets/99516887/e4195a01-d6d0-49bd-84b9-db1cf81638b8)
+![divy-bikes-screenshot](https://github.com/user-attachments/assets/ed93b934-73b9-48ac-a3f6-2cee6d5be34c)
+
 
 ---
 
