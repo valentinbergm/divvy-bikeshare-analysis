@@ -23,7 +23,7 @@ The analysis resulted in three actionable business recommendations, each support
 ### 3. The Dashboard
 
 
-<img width="1797" height="798" alt="Screenshot 2025-09-04 at 17 34 16" src="https://github.com/user-attachments/assets/0655708f-a7f9-4266-86e0-ab7bff09d255" />
+<img width="1799" height="800" alt="Screenshot 2025-09-04 at 17 37 13" src="https://github.com/user-attachments/assets/286e2f9c-2f21-45dc-89a0-7bb1b8eb1977" />
 
 
 ---
