@@ -24,6 +24,8 @@ The analysis resulted in three actionable business recommendations, each support
 
 ![divy-bikes-screenshot](https://github.com/user-attachments/assets/5536cc09-d3db-4f30-af49-c4dcdee4db4f)
 
+<img width="1295" height="765" alt="Screenshot 2025-09-04 at 17 25 14" src="https://github.com/user-attachments/assets/c79d09c4-85bb-413e-9e47-677c4706c874" />
+
 
 ---
 
