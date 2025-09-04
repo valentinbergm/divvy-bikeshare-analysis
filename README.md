@@ -91,3 +91,4 @@ When categorizing rides by duration, members clearly concentrate in the “quick
 
 **Valentyn Malyuk**  
 [LinkedIn](https://www.linkedin.com/in/valentyn-malyuk-003564120/)  
+[Video Overview](https://www.loom.com/share/ae97dd9374f141088cf014f6a87a95f9?sid=eb1049a4-6ce4-435d-90b1-4be52b1ef9b5)  
